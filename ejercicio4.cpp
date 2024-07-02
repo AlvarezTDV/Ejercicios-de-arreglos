@@ -36,5 +36,6 @@ int main() {
 	nombresIngresados( nombres, cantidadNombres ); 
 	cout << "Nombres ordenados: ";
 	comparar( nombres, cantidadNombres );
+	
 	return 0;
 }
